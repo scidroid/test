@@ -1,0 +1,37 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header {
+    background-color: rgb(172, 223, 223);
+    box-shadow: -15px 8px 9px 4px rgba(0,0,0,0.57);
+    text-align: left;
+    font-size: 20px;
+}
+
+.github {
+    float: right;
+    position: absolute;
+    top: 15px;
+    right: 15px;
+}
+
+article {
+    background-color: cadetblue;
+}
+
+footer {
+    background-color: rgb(172, 223, 223);
+    box-shadow: -14px -12px 10px 12px rgba(0,0,0,0.74);
+    position: absolute;
+    bottom: 1px;
+    right: 1px;
+    left: 1px;
+    font-size: 20px;
+}
+
+.aviso {
+    position: absolute;
+    bottom: 1px;
+    right: 15px;
+}
